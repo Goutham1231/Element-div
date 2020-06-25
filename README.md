@@ -67,8 +67,7 @@ div
         <td><center>Principles of programming languages</center></td>
         <td><center>80</center></td>
       </tr>
-      
-    </table>
+     </table>
    </div>
   </body>
 </html>
